@@ -16,16 +16,16 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from cokies import print
+        from cokies import main
  
-        print()
+        main()
  
  
  
 elif bit == "32bit":
  
-        from DM32 import menu
+        from DM32 import main
  
  
-        menu()
+        main()
  
