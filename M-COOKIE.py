@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from DM32 import main
+        from comng import main
  
  
         main()
