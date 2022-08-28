@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from cokies import main
+        from cookies import main
  
         main()
  
