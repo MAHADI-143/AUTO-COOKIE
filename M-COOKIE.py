@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from cookies import main
+        from c import main
  
         main()
  
