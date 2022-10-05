@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from cookies import main
+        from cookies32 import main
  
  
         main()
