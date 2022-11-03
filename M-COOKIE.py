@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from COOKIE64 import main
+        from COOKIES64 import main
  
         main()
  
