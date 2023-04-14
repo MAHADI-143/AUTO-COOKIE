@@ -1,1 +1,1 @@
-import cookies64
+import COOKIES64
